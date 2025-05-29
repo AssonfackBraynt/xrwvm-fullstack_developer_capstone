@@ -30,7 +30,7 @@ DEBUG = True
 
 # I am doing the Capstone Project LOCALLY!
 ALLOWED_HOSTS = ['localhost','https://assonfack076-8000.theianext-0-labs-prod-misc-tools-us-east-0.proxy.cognitiveclass.ai/', '127.0.0.1']
-CSRF_TRUSTED_ORIGINS = ['https://assonfack076-8000.theianext-0-labs-prod-misc-tools-us-east-0.proxy.cognitiveclass.ai/']
+CSRF_TRUSTED_ORIGINS = ['https://assonfack076-8000.theiadockernext-0-labs-prod-theiak8s-4-tor01.proxy.cognitiveclass.ai']
 
 REST_FRAMEWORK = {
     'DEFAULT_AUTHENTICATION_CLASSES': [],
